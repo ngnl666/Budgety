@@ -4,4 +4,5 @@
 網址: [記帳APP](https://ngnl666.github.io/Budgety/)
 ----------------------------------------------------------------
 設計架構:
-[image](https://i.ibb.co/4jyF5F3/structure.png)
+----------------------------------------------------------------
+[!image](https://i.ibb.co/4jyF5F3/structure.png)
